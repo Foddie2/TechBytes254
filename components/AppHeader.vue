@@ -13,9 +13,7 @@
                           <span class="bg-stone-950 text-white rounded-r-lg logo text-xl font-bold tracking-wide  ">
                           Bytes
                           </span>
-                          <br/>
                         </NuxtLink>
-                        <p class="sr-only">Benson Agala</p>
                     </a>
                 </div>
                 <div class="hidden md:flex md:items-center md:justify-center md:gap-5">

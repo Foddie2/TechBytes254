@@ -7,10 +7,10 @@
                     <a aria-current="page" class="flex items-center" href="/">
                         <NuxtLink
                         to="/" class="inline-flex items-center">
-                          <span class="logo text-xl font-bold tracking-wide text-stone-950">
+                          <span class="logo text-md font-bold tracking-wide text-stone-950">
                             Tech
                           </span>
-                          <span class="bg-stone-950 text-white rounded-r-lg logo text-xl font-bold tracking-wide  ">
+                          <span class="bg-stone-950 text-white rounded-r-lg logo text-md font-bold tracking-wide">
                           Bytes
                           </span>
                         </NuxtLink>
@@ -28,7 +28,7 @@
                         href="#">Pricing</a>    
                 </div>
                 <div class="flex items-center justify-end gap-3">
-                    <a class="inline-flex items-center justify-center rounded-xl bg-blue-600 px-3 py-2 text-sm font-semibold text-white shadow-sm transition-all duration-150 hover:bg-blue-500 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-blue-600"
+                    <a class="inline-flex items-center justify-center rounded-xl bg-stone-600 px-3 py-2 text-sm font-semibold text-white shadow-sm transition-all duration-150 hover:bg-stone-900 focus-visible:outline focus-visible:outline-2 focus-visible:outline-offset-2 focus-visible:outline-stone-600"
                         href="/login">Login</a>
                 </div>
             </div>

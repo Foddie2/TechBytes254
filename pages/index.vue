@@ -6,6 +6,5 @@
   <div>
       <AppHeader/>
       <Hero/>
-
   </div>
 </template>

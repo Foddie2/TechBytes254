@@ -9,5 +9,6 @@
 
       <div>nsnvsnknsvknsknsnksvnsksnvksnksnvknvks</div>
       <Hero/>
+      <Footer/>
   </div>
 </template>

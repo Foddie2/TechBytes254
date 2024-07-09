@@ -1,8 +1,12 @@
 <template>
+  <div>
+    <AppHeader/>
     <div>
         graphic design
 
     </div>
+    <Footer/>
+  </div>
 </template>
 
 <script>

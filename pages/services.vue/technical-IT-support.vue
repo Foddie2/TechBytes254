@@ -1,8 +1,12 @@
 <template>
+ <div>
+    <AppHeader/>
     <div>
         Technical 
 
     </div>
+    <Footer/>
+ </div>
 </template>
 
 <script>

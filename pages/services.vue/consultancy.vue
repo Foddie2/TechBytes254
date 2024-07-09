@@ -1,8 +1,12 @@
 <template>
+  <div>
+    <AppHeader/>
     <div>
         Consultancy
 
     </div>
+    <Footer/>
+  </div>
 </template>
 
 <script>

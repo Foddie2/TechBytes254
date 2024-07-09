@@ -1,8 +1,9 @@
 <template>
-    <div>
-        web design
-
-    </div>
+ <div>
+    <AppHeader/>
+ 
+    <Footer/>
+ </div>
 </template>
 
 <script>

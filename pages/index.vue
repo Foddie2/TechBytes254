@@ -8,6 +8,9 @@
       <Hero/>
       <About/>
       <HomeService/>
+      <AboutHome/>
+      <Services2/> 
+      <!-- <AboutHome/> -->
       <Footer/>
   </div>
 </template>

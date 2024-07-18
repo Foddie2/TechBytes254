@@ -8,7 +8,7 @@
       <Hero/>
       <About/>
       <HomeService/>
-      <AboutHome/>
+      <!-- <AboutHome/> -->
       <Services2/> 
       <!-- <AboutHome/> -->
       <Footer/>

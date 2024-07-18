@@ -5,10 +5,10 @@
           <div>
             <div class="flex justify-start text-blue-600 sm:justify-start">
               <a href="/" class="inline-flex items-center">
-                <span class="logo text-xl font-bold tracking-wide rounded-l-lg text-stone-800 bg-white">
+                <span class="logo text-md font-bold tracking-wide rounded-l-lg text-stone-800 bg-white">
                   Tech
                 </span>
-                <span class="text-white rounded-r-lg logo text-xl font-bold tracking-wide">
+                <span class="text-white rounded-r-lg logo text-md font-bold tracking-wide">
                   Bytes
                 </span>
               </a>

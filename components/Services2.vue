@@ -10,7 +10,7 @@
           </p>
         </div>
     
-        <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3">
+        <div class="mt-8 grid grid-cols-1 gap-8 md:grid-cols-2 lg:grid-cols-3" data-aos="fade-up" data-aos-duration="1000">
           <a
             class="block rounded-xl border border-blue-200 p-8 shadow-xl transition hover:border-blue-500/10 hover:shadow-blue-100"
             href="#"

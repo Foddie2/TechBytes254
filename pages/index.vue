@@ -11,6 +11,7 @@
       <!-- <AboutHome/> -->
       <Services2/> 
       <!-- <AboutHome/> -->
+       <Contact/>
       <Footer/>
   </div>
 </template>

@@ -5,9 +5,6 @@
 <template>
   <div>
       <AppHeader/>
-
-
-      <div>nsnvsnknsvknsknsnksvnsksnvksnksnvknvks</div>
       <Hero/>
       <Footer/>
   </div>

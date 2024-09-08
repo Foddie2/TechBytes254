@@ -4,8 +4,8 @@
 
 <template>
   <div>
-      <AppHeader/>
-      <Hero/>
-      <Footer/>
-  </div>
+    <AppHeader/>
+    <Hero/>
+    <Footer/>
+</div>
 </template>

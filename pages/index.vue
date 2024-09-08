@@ -6,6 +6,12 @@
   <div>
       <AppHeader/>
       <Hero/>
+      <About/>
+      <HomeService/>
+      <!-- <AboutHome/> -->
+      <Services2/> 
+      <!-- <AboutHome/> -->
+       <Contact/>
       <Footer/>
   </div>
 </template>

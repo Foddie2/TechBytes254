@@ -9,10 +9,10 @@
       <div class="relative flex items-center justify-between">
         <NuxtLink
         to="/" class="inline-flex items-center">
-          <span class="logo font-bold tracking-wide text-lg text-stone-950">
+          <span class="logo font-bold tracking-wide text-md text-stone-950">
             Tech
           </span>
-          <span class="bg-stone-950 text-white rounded-r-lg logo text-lg font-bold tracking-wide  ">
+          <span class="bg-stone-950 text-white rounded-r-lg logo text-md font-bold tracking-wide  ">
           Bytes
           </span>
           <br/>
@@ -44,7 +44,7 @@
             </NuxtLink>
           </li> -->
           <li class="relative parent font-medium tracking-wide text-stone-950 hover:text-blue-500 uppercase ">services
-            <a href="#" class="flex justify-between md:inline-flex p-2 items-center space-x-2">
+            <a href="#" class="flex justify-between md:inline-flex p-2 items-center space-x-1">
                   <svg xmlns="http://www.w3.org/2000/svg" class="w-4 h-4 fill-current pt-1" viewBox="0 0 24 24"><path d="M0 7.33l2.829-2.83 9.175 9.339 9.167-9.339 2.829 2.83-11.996 12.17z"/></svg>
                 </a>
                   <ul class="child bg-opacity-90 transition duration-300 md:absolute top-full right-0 md:w-72 bg-white md:shadow-lg md:rounded-b ">
@@ -56,7 +56,7 @@
                       </NuxtLink>
                     </li>
                     <li> 
-                      <NuxtLink to="/services/technical_IT-support">
+                      <NuxtLink to="services/technical_IT-support">
                         <a href="" class="flex px-4 py-3 text-stone-950 hover:bg-blue-50 hover:text-blue-500">
                           Technical & IT Support
                         </a>
@@ -77,7 +77,7 @@
                       </NuxtLink>
                     </li>
                     <li>
-                      <NuxtLink to="/services/web-design_development">
+                      <NuxtLink to="/services/web-design">
                         <a href="" class="flex px-4 py-3 text-stone-950 hover:bg-blue-50 hover:text-blue-500">
                           Web Design & Development
                         </a>
@@ -141,10 +141,10 @@
                 <div>
                   <NuxtLink
                   to="/" class="inline-flex items-center">
-                    <span class="logo text-xl font-bold tracking-wide text-stone-950">
+                    <span class="logo text-md font-bold tracking-wide text-stone-950">
                       Tech
                     </span>
-                    <span class="bg-stone-950 text-white rounded-r-lg logo text-xl font-bold tracking-wide hover:bg-blue-700">
+                    <span class="bg-stone-950 text-white rounded-r-lg logo text-md font-bold tracking-wide hover:bg-blue-700">
                     Bytes
                     </span>
                     <br/>
@@ -225,7 +225,7 @@
                               </NuxtLink>
                             </li>
                             <li>
-                              <NuxtLink to="/services/web-design_development">
+                              <NuxtLink to="/services/web-design">
                                 <a href="" class="flex px-4 py-3 text-stone-950 hover:bg-blue-50 hover:text-blue-500">
                                   Web Design & Development
                                 </a>
@@ -286,20 +286,6 @@ export default {
     };
   },
 };
-
-// const route = useRoute();
-
-// const navigation = [
-//   {name: 'Home', href: '/', current: route.name =='index'},
-//   {name: 'Blog', href: '/blog', current: route.name.includes ('blog')},
-//   {name: 'our-story', href: '/our-story', current: route.name =='our-story'},
-//   {name: 'pc-world', href: '/pc-world', current: route.name =='pc-world'},
-//   {name: 'how-to', href: '/how-to', current: route.name =='how-to'},
-//   {name: 'portfolio', href: '/portfolio', current: route.name =='portfolio'},
-
-
-
-// ]
 
 </script>
 

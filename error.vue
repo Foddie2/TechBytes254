@@ -1,11 +1,29 @@
 <template>
-  <div class=" bg-gray-100">
- 
-      <NuxtPage />
-    </div>
+  <div>
+   <div class="mt-7 max-w-sm mx-auto text-center card">
+       <p class="mt-7 text-7xl font-bold">{{ error.statusCode }}</p>
+       <p class="mt-7 text-6xl ">Ooops ⚠️ 
+          <span class="text-blue-700">Development in progress.</span> 
+      </p>
+       <p class="mt-8">  {{ error.message }}</p>
 
-    <a class="mt-8 inline-flex items-center justify-center rounded-xl bg-green-600 py-3 px-6 font-dm text-base font-medium text-white shadow-xl shadow-green-400/75 transition-transform duration-200 ease-in-out hover:scale-[1.02]"
-    href="#">
-    Sign up for free
-</a>
+       <button @click="handleClearError"
+           class="inline-flex items-center mt-7 uppercase font-bold bg-blue-700 hover:bg-white hover:text-blue-700 justify-center h-12 px-6 mr-6  tracking-wide text-white rounded shadow-md focus:shadow-outline focus:outline-solid ">
+
+           Go back Home
+         </button>
+
+   </div>
+  </div>
+  <Footer/>
 </template>
+
+<script setup>
+  defineProps(['error'])
+  const handleClearError = () => clearError({redirect: '/'})
+  
+</script>
+
+<style  scoped>
+
+</style>

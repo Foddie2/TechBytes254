@@ -56,7 +56,7 @@
                       </NuxtLink>
                     </li>
                     <li> 
-                      <NuxtLink to="services/technical_IT-support">
+                      <NuxtLink to="services/technical-IT-support">
                         <a href="" class="flex px-4 py-3 text-stone-950 hover:bg-blue-50 hover:text-blue-500">
                           Technical & IT Support
                         </a>
@@ -204,7 +204,7 @@
                               </NuxtLink>
                             </li>
                             <li> 
-                              <NuxtLink to="/services/technical_IT-support">
+                              <NuxtLink to="/services/technical-IT-support">
                                 <a href="" class="flex px-4 py-3 text-stone-950 hover:bg-blue-50 hover:text-blue-500">
                                   Technical & IT Support
                                 </a>

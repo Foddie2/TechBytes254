@@ -6,6 +6,7 @@
   <div>
       <AppHeader/>
       <Hero/>
+      <HowWeWork/>
       <Footer/>
   </div>
 </template>

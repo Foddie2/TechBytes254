@@ -5,7 +5,7 @@
 <template>
   <div>
       <AppHeader/>
-      <Hero/>
+      <AboutUs/>
       <HowWeWork/>
       <Footer/>
   </div>

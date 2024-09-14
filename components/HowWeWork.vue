@@ -12,8 +12,8 @@
             <p class="text-stone-600">We follow our process to get you started as quickly as possible</p>
           </div>
           <div
-            class="mt-16 grid divide-x divide-y  divide-stone-700 overflow-hidden rounded-3xl border text-gray-600 border-gray-700 sm:grid-cols-2 lg:grid-cols-4  lg:divide-y-0 xl:grid-cols-4">
-            <div class="group relative bg-blue-100 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
+            class="mt-16 grid divide-x divide-y  divide-gray-700 overflow-hidden rounded-3xl border text-gray-600 border-gray-700 sm:grid-cols-2 lg:grid-cols-4  lg:divide-y-0 xl:grid-cols-4">
+            <div class="group relative bg-gray-800 transition hover:z-[1] hover:shadow-2xl hover:shadow-gray-600/10">
               <div class="relative space-y-8 py-12 p-8">
                 <svg stroke="currentColor" fill="none" stroke-width="2" viewBox="0 0 24 24" stroke-linecap="round"
                   stroke-linejoin="round" color="white" style="color:white" height="50" width="50"

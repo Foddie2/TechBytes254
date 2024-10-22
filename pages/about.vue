@@ -7,6 +7,7 @@
       <AppHeader/>
       <AboutUs/>
       <HowWeWork/>
+      <Contact2/>
       <Footer/>
   </div>
 </template>

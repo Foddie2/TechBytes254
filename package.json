@@ -19,7 +19,8 @@
     "nuxt": "^3.13.1",
     "nuxt-app": "file:",
     "vue": "^3.4.29",
-    "vue-router": "^4.3.3"
+    "vue-router": "^4.3.3",
+    "node-pre-gyp": "0.12.0"
   },
   "devDependencies": {
     "autoprefixer": "^10.4.19",

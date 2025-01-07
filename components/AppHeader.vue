@@ -15,6 +15,7 @@
           <span class="bg-stone-950 text-white rounded-r-lg logo text-md font-bold tracking-wide  ">
           Bytes
           </span>
+          <sup class="font-bold">254</sup>
           <br/>
         </NuxtLink>
 
@@ -147,6 +148,7 @@
                     <span class="bg-stone-950 text-white rounded-r-lg logo text-md font-bold tracking-wide hover:bg-blue-700">
                     Bytes
                     </span>
+                    <sup class="font-bold">254</sup>
                     <br/>
                   </NuxtLink>
                 </div>

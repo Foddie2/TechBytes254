@@ -11,6 +11,7 @@
                 <span class="text-white rounded-r-lg logo text-md font-bold tracking-wide">
                   Bytes
                 </span>
+                <sup class="font-bold text-white">254</sup>
               </a>
             </div>
   

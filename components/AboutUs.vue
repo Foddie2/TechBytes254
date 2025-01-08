@@ -10,18 +10,6 @@
             <h3 class="font-light text-3xl">with TailwindCSS</h3>
         </div>
     </section>
-
-
-
-
-    <video
-    
-  />
-
-  
-
-
-
 </template>
 
 <script>

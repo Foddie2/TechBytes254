@@ -6,6 +6,7 @@
   <div>
       <AppHeader/>
       <AboutUs/>
+      <AboutDescription/>
       <HowWeWork/>
       <Contact2/>
       <Footer/>

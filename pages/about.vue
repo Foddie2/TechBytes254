@@ -8,6 +8,7 @@
       <AboutUs/>
       <AboutDescription/>
       <HowWeWork/>
+      <FAQ/>
       <Contact2/>
       <Footer/>
   </div>

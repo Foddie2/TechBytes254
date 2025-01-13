@@ -9,7 +9,7 @@
       ></div>
     
       <div
-        class="relative mx-auto max-w-screen-xl px-4 py-32 sm:px-6 lg:flex lg:h-screen lg:items-center lg:px-8"
+        class="relative lg:flex lg:h-screen lg:items-center container py-10 mx-auto max-w-screen-xl px-4 pb-6 pt-10 sm:px-6 lg:px-8 lg:pt-26 lg:pb-24"
       >
         <div class="max-w-xl ltr:sm:text-left" data-aos="fade-up" data-aos-delay="300">
           <h1 class="text-3xl font-extrabold lg:text-6xl sm:text-5xl text-stone-50">

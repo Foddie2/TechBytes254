@@ -1,6 +1,8 @@
 <template>
  <div>
     <AppHeader/>
+    <WebDevStack/>
+    <WebDesignPricing/>
  
     <Footer/>
  </div>

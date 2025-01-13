@@ -1,6 +1,7 @@
 <template>
 <div>
     <AppHeader/>
+    <SoftwareDevPricing/>
     <div>
         Software dev
 

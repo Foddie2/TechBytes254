@@ -8,7 +8,7 @@
                 Design with <span class="text-cyan-500">Impact</span>
               </h1>
               <p class="mt-4 text-base sm:text-lg md:text-xl font-medium text-gray-400 dark:text-gray-400 text-gray-700 text-balance">
-                Brutal aesthetics for a bold web presence. Build without compromise.
+                Making complex concepts & systems easy to understand and navigate
               </p>
               <div class="mt-6 sm:mt-8 flex flex-wrap gap-4">
                 <a href="#get-started" class="rounded-sm p-3 grow text-center bg-cyan-500 text-black font-bold uppercase text-sm tracking-widest hover:bg-cyan-600 transition">

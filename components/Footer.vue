@@ -344,7 +344,7 @@
             </p>
   
             <p class="mt-4 text-sm text-stone-500 sm:order-first sm:mt-0">
-              &copy; 2024 TechBytes
+              &copy; 2025 TechBytes
             </p>
           </div>
         </div>

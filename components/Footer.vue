@@ -342,7 +342,13 @@
                 Privacy Policy
               </a>
             </p>
+
+
+
+            <p class="text-center mt-4 text-sm sm:mt-0 text-stone-500">&copy;  2024 - All rights reserved.</p>
   
+
+
             <p class="mt-4 text-sm text-stone-500 sm:order-first sm:mt-0">
               &copy; 2025 TechBytes
             </p>

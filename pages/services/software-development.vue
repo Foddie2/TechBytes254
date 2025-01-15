@@ -1,7 +1,7 @@
 <template>
 <div>
     <AppHeader/>
-    <LazySoftwareDesignHero/>
+    <SoftwareDesignHero/>
     <SoftwareDevPricing/>
     <div>
         Software dev

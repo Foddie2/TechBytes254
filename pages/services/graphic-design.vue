@@ -1,6 +1,7 @@
 <template>
   <div>
     <AppHeader/>
+    <GraphicHero/>
     <GraphicDesignPricing/>
     <div>
         graphic design

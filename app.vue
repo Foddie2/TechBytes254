@@ -4,17 +4,19 @@
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
+
+    <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
+    <a href="https://api.whatsapp.com/send?phone=711974716&text=Hello%21%20TechBytes%20." class="float" target="_blank">
+    <i class="fa fa-whatsapp my-float"></i>
+    </a>
+
     </div>
 
-<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.5.0/css/font-awesome.min.css">
-<a href="https://api.whatsapp.com/send?phone=711974716&text=Hello%21%20TechBytes%20." class="float" target="_blank">
-<i class="fa fa-whatsapp my-float"></i>
-</a>
+
 
 </template>
 
 <script setup lang="ts">
-
 useSeoMeta({
   title: 'Techbytes254',
   ogTitle: 'Techbytes254',

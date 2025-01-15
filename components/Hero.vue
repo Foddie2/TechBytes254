@@ -2,7 +2,7 @@
 
 
     <section
-      class="relative bg-[url(https://images.pexels.com/photos/459653/pexels-photo-459653.jpeg?auto=compress&cs=tinysrgb&w=800)] bg-cover bg-center bg-no-repeat"
+      class="relative bg-[url(https://images.pexels.com/photos/459653/pexels-photo-459653.jpeg?auto=compress&cs=tinysrgb&w=800)] bg-cover bg-center bg-no-repeat    "
     >
       <div
         class="absolute inset-0 bg-blue/75 sm:bg-transparent sm:from-blue/95 sm:to-white/25 ltr:sm:bg-gradient-to-r bg-gradient-to-r from-blue-400 to-teal-400"

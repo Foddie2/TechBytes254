@@ -13,7 +13,8 @@
   "dependencies": {
     "@material-tailwind/html": "^2.3.2",
     "@nuxtjs/tailwindcss": "^6.12.0",
-    "@vueuse/core": "^11.0.3",
+    "@vueuse/core": "^12.4.0",
+    "@vueuse/motion": "^2.2.6",
     "@vueuse/nuxt": "^11.0.3",
     "add": "^2.0.6",
     "aos": "^2.3.4",
@@ -25,11 +26,16 @@
     "vue-router": "^4.3.3"
   },
   "devDependencies": {
+    "@inspira-ui/plugins": "^0.0.1",
     "@types/nodemailer": "^6.4.16",
     "autoprefixer": "^10.4.19",
+    "class-variance-authority": "^0.7.1",
+    "clsx": "^2.1.1",
     "postcss": "^8.4.38",
     "sass": "^1.77.6",
     "sass-loader": "^14.2.1",
-    "tailwindcss": "^3.4.4"
+    "tailwind-merge": "^2.6.0",
+    "tailwindcss": "^3.4.4",
+    "tailwindcss-animate": "^1.0.7"
   }
 }

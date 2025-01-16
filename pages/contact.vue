@@ -5,7 +5,6 @@
 <template>
   <div>
     <AppHeader/>
-    <Nav2/>
     <Contact/>
     <Footer/>
 </div>

@@ -1,9 +1,13 @@
 <template>
-    <div>
+ <!--    <div>
         <AppHeader/>
         <Footer/>
 
-    </div>
+    </div> -->
+
+   <div>
+    HOW TO
+   </div> 
 </template>
 
 <script>

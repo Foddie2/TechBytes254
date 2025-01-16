@@ -1,6 +1,9 @@
 <template>
  <div>
+   
     <AppHeader/>
+    <GraphicHero/>
+
     <WebDevStack/>
     <WebDesignPricing/>
  

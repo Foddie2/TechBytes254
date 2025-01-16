@@ -70,30 +70,30 @@
                         </a>
                       </NuxtLink>
                     </li>
-                    <li>
+                 <!--    <li>
                       <NuxtLink to="/services/graphic-design">
                         <a href="" class="flex px-4 py-3 text-stone-950 hover:bg-blue-50 hover:text-blue-500">
                           Graphic Design
                         </a>
                       </NuxtLink>
-                    </li>
+                    </li> -->
                     <li>
                       <NuxtLink to="/services/web-design">
                         <a href="" class="flex px-4 py-3 text-stone-950 hover:bg-blue-50 hover:text-blue-500">
-                          Web Design & Development
+                          Design & Development
                         </a>
                       </NuxtLink>
                     </li>
                 </ul>
           </li>
-          <li>
+        <!--   <li>
             <NuxtLink
               to="/how-to"
               class="font-medium tracking-wide text-stone-950 hover:text-blue-500 uppercase nav-link"
             >
               How To
             </NuxtLink>
-          </li>
+          </li> -->
           <li>
             <NuxtLink
               to="/portfolio"
@@ -219,29 +219,29 @@
                                 </a>
                               </NuxtLink>
                             </li>
-                            <li>
+                         <!--    <li>
                               <NuxtLink to="/services/graphic-design">
                                 <a href="" class="flex px-4 py-3 text-stone-950 hover:bg-blue-50 hover:text-blue-500">
                                   Graphic Design
                                 </a>
                               </NuxtLink>
-                            </li>
+                            </li> -->
                             <li>
                               <NuxtLink to="/services/web-design">
                                 <a href="" class="flex px-4 py-3 text-stone-950 hover:bg-blue-50 hover:text-blue-500">
-                                  Web Design & Development
+                                  Design & Development
                                 </a>
                               </NuxtLink>
                             </li>
                         </ul>
                   </li>
-                  <li>
+                  <!-- <li>
                     <NuxtLink
                       to="/how-to"
                       class="font-medium tracking-wide text-stone-950 hover:text-blue-500 uppercase nav-link"
                       >How To
                     </NuxtLink>
-                  </li>
+                  </li> -->
                   <li>
                     <NuxtLink
                       to="/portfolio"

@@ -9,7 +9,7 @@
       <OurStory/>
       <AboutDescription/>
       <HowWeWork/>
-   <!--    <NewFAQ/> -->
+      <NewFAQ/>
       <FAQ/>
       <!-- <Contact2/> -->
       <Footer/>

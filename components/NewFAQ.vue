@@ -3,7 +3,7 @@
 		<div class="container flex flex-col justify-center py-9 md:p-8 mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24">
 			<h1 class="text-2xl font-semibold sm:text-4xl">Frequently Asked Questions</h1>
 			<p class="mt-5 mb-8 dark:text-stone-400">Sagittis tempor donec id vestibulum viverra. Neque condimentum primis orci at lacus amet bibendum.</p>
-			<div class="space-y-5"></div>
+			<div class="space-y-5">
   
       <nav class="accordion arrows">
       <!--   <header class="box">
@@ -32,7 +32,7 @@
       </nav>
 
     </div>
- 
+    </div>
   
 </section> 
   

@@ -8,7 +8,7 @@
       ></div>
 
      
-        <div class="p-10 sm:p-10dark:text-white text-white flex items-center justify-center overflow-hidden">
+        <div class="p-10 sm:p-10 dark:text-white text-white flex items-center justify-center overflow-hidden">
             <div class="w-full max-w-6xl px-4 sm:px-6">
               <div class="grid grid-cols-1 gap-8 md:grid-cols-2">
                 <!-- Left Section: Text Content -->

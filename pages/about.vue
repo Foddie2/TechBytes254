@@ -11,7 +11,7 @@
       <HowWeWork/>
    <!--    <NewFAQ/> -->
       <FAQ/>
-      <Contact2/>
+      <!-- <Contact2/> -->
       <Footer/>
   </div>
 </template>

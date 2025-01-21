@@ -9,8 +9,8 @@
       <OurStory/>
       <AboutDescription/>
       <HowWeWork/>
-      <NewFAQ/>
-      <FAQ/>
+      <!-- <NewFAQ/> -->
+      <!-- <FAQ/> -->
       <!-- <Contact2/> -->
       <Footer/>
   </div>

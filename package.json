@@ -12,12 +12,17 @@
   },
   "dependencies": {
     "@material-tailwind/html": "^2.3.2",
+    "@nuxt/content": "^3.0.0",
     "@nuxtjs/tailwindcss": "^6.12.0",
+    "@tailwindcss/postcss": "^4.0.5",
+    "@tailwindcss/postcss7-compat": "^2.2.17",
+    "@tailwindcss/vite": "^4.0.3",
     "@vueuse/core": "^12.4.0",
     "@vueuse/motion": "^2.2.6",
     "@vueuse/nuxt": "^11.0.3",
     "add": "^2.0.6",
     "aos": "^2.3.4",
+    "autoprefixer": "^10.4.20",
     "module": "^1.2.5",
     "node-pre-gyp": "0.12.0",
     "nodemailer": "^6.9.16",
@@ -28,14 +33,13 @@
   "devDependencies": {
     "@inspira-ui/plugins": "^0.0.1",
     "@types/nodemailer": "^6.4.16",
-    "autoprefixer": "^10.4.19",
     "class-variance-authority": "^0.7.1",
     "clsx": "^2.1.1",
-    "postcss": "^8.4.38",
     "sass": "^1.77.6",
     "sass-loader": "^14.2.1",
     "tailwind-merge": "^2.6.0",
-    "tailwindcss": "^3.4.4",
+    "postcss": "^8.4.47",
+    "tailwindcss": "^3.4.12",
     "tailwindcss-animate": "^1.0.7"
   }
 }

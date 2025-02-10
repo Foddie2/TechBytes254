@@ -12,7 +12,7 @@
             <div class="w-full max-w-6xl px-4 sm:px-6">
               <div class="grid grid-cols-1 gap-8 md:grid-cols-2">
                 <!-- Left Section: Text Content -->
-                <div class="flex flex-col justify-center text-center md:text-left z-10">
+                <div class="flex flex-col justify-center text-start md:text-left z-10">
                   <h1 class="text-4xl sm:text-4xl md:text-5xl lg:text-7xl font-extrabold uppercase leading-tight tracking-tight">
                     Empowering Businesses through <span class="text-stone-900">Technology</span>
                   </h1>
@@ -35,7 +35,7 @@
                 </div>
           
                 <!-- Right Section: Visual Block -->
-                <div class="relative flex items-center sm:m-10">
+                <div class="relative max-sm:hidden flex items-center sm:m-10">
                   <div
                     class="absolute -top-10 md:-top-20 -left-10 sm:w-32 sm:h-32 lg:w-64 lg:h-64 bg-cyan-500 rotate-12 rounded-lg border-cyan-700 border-b-4 border-r-8 max-sm:hidden">
                   </div>

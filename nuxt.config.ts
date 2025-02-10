@@ -2,9 +2,14 @@
 export default defineNuxtConfig({
   devtools: {
     enabled: true,
-
     timeline: {
       enabled: true,
+    },
+  },
+  postcss: {
+    plugins: {
+      tailwindcss: {},
+      autoprefixer: {},
     },
   },
   modules: ["@nuxtjs/tailwindcss", "@vueuse/nuxt",],

@@ -16,10 +16,10 @@
                   <h1 class="text-4xl sm:text-4xl md:text-5xl lg:text-7xl font-extrabold uppercase leading-tight tracking-tight">
                     Empowering Businesses through <span class="text-stone-900">Technology</span>
                   </h1>
-                  <p class="mt-4 text-base sm:text-lg md:text-xl font-medium dark:text-gray-400 text-gray-700 text-balance">
+                  <p class="mt-4 text-xl sm:text-lg md:text-xl font-medium dark:text-gray-400 text-gray-700 text-balance">
                     Where imagination meets innovation, We do everything with you in mind! We help you grow your business.
                   </p>
-                  <div class="mt-6 sm:mt-8 flex flex-wrap gap-4">
+                  <div class="mt-10 sm:mt-8 flex flex-wrap gap-4">
                     <NuxtLink to="/about">
                       <a class="relative inline-flex items-center px-12 py-3 overflow-hidden text-lg font-medium text-white border-2 border-white rounded-full hover:text-white group hover:bg-gray-50">
                       

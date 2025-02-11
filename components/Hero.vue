@@ -16,10 +16,10 @@
                   <h1 class="text-4xl sm:text-4xl md:text-5xl lg:text-7xl font-extrabold uppercase leading-tight tracking-tight">
                     Empowering Businesses through <span class="text-stone-900">Technology</span>
                   </h1>
-                  <p class="mt-4 text-xl sm:text-lg md:text-xl font-medium dark:text-gray-400 text-gray-700 text-balance">
+                  <p class="mt-4 text-lg sm:text-lg md:text-xl font-medium dark:text-gray-400 text-gray-700 text-balance">
                     Where imagination meets innovation, We do everything with you in mind! We help you grow your business.
                   </p>
-                  <div class="mt-10 sm:mt-8 flex flex-wrap gap-4">
+                  <div class="mt-6 sm:mt-8 flex flex-wrap gap-4">
                     <NuxtLink to="/about">
                       <a class="relative inline-flex items-center px-12 py-3 overflow-hidden text-lg font-medium text-white border-2 border-white rounded-full hover:text-white group hover:bg-gray-50">
                       
@@ -40,10 +40,19 @@
                     class="absolute -top-10 md:-top-20 -left-10 sm:w-32 sm:h-32 lg:w-64 lg:h-64 bg-cyan-500 rotate-12 rounded-lg border-cyan-700 border-b-4 border-r-8 max-sm:hidden">
                   </div>
                   <div class="relative z-10 bg-gray-800 dark:bg-gray-800 p-4 sm:p-6 -right-1/2 -translate-x-1/2 grow text-center shadow-2xl -rotate-2 rounded-xl text-nowrap border-slate-950 border-b-4 border-r-8">
-                    <h2 class="text-2xl sm:text-3xl font-bold uppercase text-gray-50 dark:text-gray-50">
-                      Bold. Strong. Raw.
+                    <h2 class="text-2xl sm:text-3xl font-bold uppercase text-gray-50 dark:text-gray-50 text-rainbow-animation">
+                      <span class="text-red-500">
+                        Bold. 
+                      </span>
+                      <span class="text-blue-500">
+                        Strong.
+                      </span>
+                      <span class="text-green-500">
+                        Raw.
+                      </span>
+                   
                     </h2>
-                    <p class="mt-1 text-sm sm:text-base font-light text-gray-400 dark:text-gray-400">
+                    <p class="mt-1 text-sm sm:text-base font-light text-gray-300 dark:text-gray-300">
                       Embrace minimalism with maximal impact.
                     </p>
                   </div>
@@ -64,6 +73,21 @@
     </script>
     
     <style lang="scss" scoped>
+
+    .text-rainbow-animation {
+      font-family:arial black;
+      background-image: 
+        linear-gradient(to right, rgb(0, 179, 255),rgb(0, 255, 247),rgb(0, 255, 115),rgb(0, 128, 113),rgb(0, 187, 255),rgb(0, 95, 130),rgb(130, 150, 238), rgb(21, 0, 255)); 
+      -webkit-background-clip: text;
+        -webkit-text-fill-color: transparent;  
+      animation: rainbow-animation 100s linear infinite;
+    }
+    
+    @keyframes rainbow-animation {
+        to {
+            background-position: 4500vh;
+        }
+    }
     
     </style>
 

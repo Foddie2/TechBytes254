@@ -5,6 +5,7 @@
     <GraphicHero/>
 
     <WebDevStack/>
+    <DesignCatalogue/>
     <WebDesignPricing/>
  
     <Footer/>

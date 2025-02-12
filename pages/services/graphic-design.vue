@@ -2,6 +2,7 @@
   <div>
     <AppHeader/>
     <GraphicHero/>
+    <DesignCatalogue/>
     <GraphicDesignPricing/>
     <div>
         graphic design

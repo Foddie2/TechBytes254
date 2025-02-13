@@ -8,15 +8,15 @@
       ></div>
 
      
-        <div class="p-10 sm:p-10 dark:text-white text-white flex items-center justify-center overflow-hidden">
-            <div class="w-full max-w-6xl px-4 sm:px-6">
+        <div class=" dark:text-white text-white flex items-center justify-center overflow-hidden">
+            <div class="w-full py-10 mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24 lg:pb-24">
               <div class="grid grid-cols-1 gap-8 md:grid-cols-2">
                 <!-- Left Section: Text Content -->
-                <div class="flex flex-col justify-center text-start md:text-left z-10">
-                  <h1 class="text-4xl sm:text-4xl md:text-5xl lg:text-7xl font-extrabold uppercase leading-tight tracking-tight">
+                <div class="flex flex-col justify-center text-start md:text-left z-10 ">
+                  <h1 class="text-4xl sm:text-4xl md:text-5xl lg:text-7xl font-extrabold uppercase leading-tight tracking-tight" data-aos="fade-up" data-aos-delay="300">
                     Empowering Businesses through <span class="text-stone-900">Technology</span>
                   </h1>
-                  <p class="mt-4 text-lg sm:text-lg md:text-xl font-medium dark:text-gray-400 text-gray-700 text-balance">
+                  <p class="mt-4 text-lg sm:text-lg md:text-xl font-medium dark:text-gray-400 text-gray-700 text-balance"  data-aos="fade-up" data-aos-delay="300">
                     Where imagination meets innovation, We do everything with you in mind! We help you grow your business.
                   </p>
                   <div class="mt-6 sm:mt-8 flex flex-wrap gap-4">
@@ -42,18 +42,18 @@
                   <div class="relative z-10 bg-gray-800 dark:bg-gray-800 p-4 sm:p-6 -right-1/2 -translate-x-1/2 grow text-center shadow-2xl -rotate-2 rounded-xl text-nowrap border-slate-950 border-b-4 border-r-8">
                     <h2 class="text-2xl sm:text-3xl font-bold uppercase text-gray-50 dark:text-gray-50 text-rainbow-animation">
                       <span class="text-red-500">
-                        Bold. 
+                        Innovate. 
                       </span>
                       <span class="text-blue-500">
-                        Strong.
+                        Simplify.
                       </span>
                       <span class="text-green-500">
-                        Raw.
+                        Enjoy.
                       </span>
                    
                     </h2>
                     <p class="mt-1 text-sm sm:text-base font-light text-gray-300 dark:text-gray-300">
-                      Embrace minimalism with maximal impact.
+                      “Where Innovation Meets Reliability”
                     </p>
                   </div>
                   <div class="absolute -bottom-10 md:-bottom-20 -right-16 sm:w-32 sm:h-32 lg:w-64 lg:h-64 bg-cyan-500 -rotate-12 rounded-lg border-cyan-700 border-r-4 border-b-8 max-sm:hidden"></div>

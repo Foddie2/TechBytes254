@@ -13,10 +13,10 @@
               <div class="grid grid-cols-1 gap-8 md:grid-cols-2">
                 <!-- Left Section: Text Content -->
                 <div class="flex flex-col justify-center text-start md:text-left z-10 ">
-                  <h1 class="text-4xl sm:text-4xl md:text-5xl lg:text-7xl font-extrabold uppercase leading-tight tracking-tight" data-aos="fade-up" data-aos-delay="300">
+                  <h1 class="text-4xl sm:text-4xl md:text-5xl lg:text-7xl font-extrabold uppercase leading-tight tracking-tight">
                     Empowering Businesses through <span class="text-stone-900">Technology</span>
                   </h1>
-                  <p class="mt-4 text-lg sm:text-lg md:text-xl font-medium dark:text-gray-400 text-gray-700 text-balance"  data-aos="fade-up" data-aos-delay="300">
+                  <p class="mt-4 text-lg sm:text-lg md:text-xl font-medium dark:text-gray-400 text-gray-700 text-balance" >
                     Where imagination meets innovation, We do everything with you in mind! We help you grow your business.
                   </p>
                   <div class="mt-6 sm:mt-8 flex flex-wrap gap-4">

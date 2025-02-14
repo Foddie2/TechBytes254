@@ -2,7 +2,7 @@
 
 
     <section
-      class="relative bg-no-repeat">
+      class="relative bg-no-repeat h-screen flex flex-col items-center justify-center text-center">
       <div
         class="absolute inset-0 bg-blue/75 sm:bg-transparent sm:from-blue/95 sm:to-white/25 ltr:sm:bg-gradient-to-r bg-gradient-to-r from-blue-400 to-teal-400"
       ></div>

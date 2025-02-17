@@ -80,7 +80,7 @@
         linear-gradient(to right, rgb(0, 179, 255),rgb(0, 255, 247),rgb(0, 255, 115),rgb(0, 128, 113),rgb(0, 187, 255),rgb(0, 95, 130),rgb(130, 150, 238), rgb(21, 0, 255)); 
       -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;  
-      animation: rainbow-animation 100s linear infinite;
+      animation: rainbow-animation 120s linear infinite;
     }
     
     @keyframes rainbow-animation {

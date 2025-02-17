@@ -1,6 +1,5 @@
 <template>
   <section class="mb-32 text-stone-800">
-    <div class=" md:px-12">
       <div
         class=" mx-auto px-4 sm:max-w-xl md:max-w-full lg:max-w-screen-xl md:px-24 lg:px-8 lg:py-10" data-aos="fade-up" data-aos-delay="300">
         <div class="grid lg:grid-cols-2 items-center">
@@ -83,7 +82,6 @@
           </div>
         </div>
       </div>
-    </div>
   </section>
 </template>
 

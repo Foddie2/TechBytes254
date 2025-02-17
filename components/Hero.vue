@@ -12,7 +12,7 @@
             <div class="w-full py-10 mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24 lg:pb-24">
               <div class="grid grid-cols-1 gap-8 md:grid-cols-2">
                 <!-- Left Section: Text Content -->
-                <div class="flex flex-col justify-center text-start md:text-left z-10 ">
+                <div class="flex flex-col justify-center text-start md:text-left z-10 " data-aos="fade-up" data-aos-delay="300">
                   <h1 class="text-4xl sm:text-4xl md:text-5xl lg:text-7xl font-extrabold uppercase leading-tight tracking-tight">
                     Empowering Businesses through <span class="text-stone-900">Technology</span>
                   </h1>

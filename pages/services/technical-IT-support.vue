@@ -1,7 +1,7 @@
 <template>
  <div>
     <AppHeader/>
-    <TechnicalSupportAbout/>
+    <!-- <TechnicalSupportAbout/> -->
     <TechnicalIT/>
    
     <div>

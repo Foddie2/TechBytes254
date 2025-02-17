@@ -1,7 +1,9 @@
 <template>
  <div>
     <AppHeader/>
+    <TechnicalSupportAbout/>
     <TechnicalIT/>
+   
     <div>
         Technical 
 

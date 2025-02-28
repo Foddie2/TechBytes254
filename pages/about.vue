@@ -7,6 +7,7 @@
       <AppHeader/>
       <AboutUs/>
       <OurStory/>
+      <AboutHero/>
       <WhyUs/>
       <AboutDescription/>
      

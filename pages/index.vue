@@ -14,6 +14,8 @@ import ProjectsCounter from '~/components/ProjectsCounter.vue';
       <!-- <AboutHome/> -->
       <Services2/> 
       <!-- <AboutHome/> -->
+      <AboutHero/>
+
        <Contact/>
       <Footer/>
   </div>

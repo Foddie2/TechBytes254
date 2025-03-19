@@ -73,15 +73,7 @@
                       </button>
           
               </form>
-
-              <!-- Response Display -->
-              <div v-if="response.status !== 0" class="mt-4 text-center">
-                <p :class="response.success ? 'bg-green-400' : 'text-red-400'"
-                    class="font-semibold text-xl text-black rounded py-4">
-                {{ response.success ? 'Success: The e-mail has been successfully sent.' : 'Error: ' }} {{ response.message }}
-                </p>
-              </div> 
-      
+              
             </div>
           </div>
           <div class="md:mb-12 lg:mb-0  relative max-sm:hidden">

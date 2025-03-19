@@ -45,25 +45,25 @@
                   <span> +254711974716</span>
                 </p>
               </div>
-              <form>
+              <form @submit.prevent="submitForm">
                 <div class="form-group mb-4">
-                  <input id="text" type="text" v-model="text" 
+                  <input id="text" type="text" name="name" v-model="form.name" 
                     class="form-control block w-full px-3 py-1.5 text-base font-normal text-stone-700 bg-white bg-clip-padding border border-solid border-stone-300 rounded transition ease-in-out m-0 focus:text-stone-700 focus:bg-white focus:border-blue-400 focus:outline-none"
                    placeholder="Name" />
                 </div>
                 <div class="form-group mb-4">
-                  <input id="email" type="email" v-model="email" 
+                  <input id="email" type="email" name="email" v-model="form.email"
                     class="form-control block w-full px-3 py-1.5 text-base font-normal text-stone-700 bg-white bg-clip-padding border border-solid border-stone-300 rounded transition ease-in-out m-0 focus:text-stone-700 focus:bg-white focus:border-blue-400 focus:outline-none"
                      placeholder="Email address" />
                 </div>
                 <div class="form-group mb-4">
-                  <textarea  id="message" v-model="message" 
+                  <textarea  id="message" name="message" v-model="form.message"
                     class="form-control block w-full px-3 py-1.5 text-base font-normal text-stone-700 bg-white bg-clip-padding border border-solid border-stone-300 rounded transition ease-in-out m-0 focus:text-stone-700 focus:bg-white focus:border-blue-400 focus:outline-none"
                    rows="3" placeholder="Message">
                   </textarea>
                 </div>
 
-                <button
+                <button type="submit"
                       class="px-5 py-2.5 mt-7 relative rounded group font-medium text-white uppercase inline-block">
                       <span class="absolute top-0 left-0 w-full h-full rounded opacity-50 filter blur-sm bg-gradient-to-br from-blue-600 to-teal-500"></span>
                       <span class="h-full w-full inset-0 absolute mt-0.5 ml-0.5 bg-gradient-to-br filter group-active:opacity-0 rounded opacity-50 from-blue-400 to-teal-400"></span>
@@ -85,25 +85,51 @@
   </section>
 </template>
 
-<script>
-export default {
-  data: () => ({
-    text: '',
-    email: '',
-    message: '',
-  }),
-  methods: {
-    send() {
-      this.$mail.send({
-        subject: 'Contact form message',
-        from: this.text,
-        from: this.email,
-        from: this.message,
-      })
+<script setup>
+  const form = ref({
+    access_key: "07298aa2-112b-4476-9933-227a0f8f980a",
+    subject: "New Submission from Web3Forms",
+    name: "",
+    email: "",
+    message: "",
+  });
+  
+  const result = ref("");
+  const status = ref("");
+  
+  const submitForm = async () => {
+    try {
+      status.value = "loading";
+      const response = await $fetch("https://api.web3forms.com/submit", {
+        method: "POST",
+        body: form.value,
+      });
+      console.log(response);
+      result.value = response.message;
+      if (response.status === 200) {
+        status.value = "success";
+      } else {
+        console.log(response); // Log for debugging, can be removed
+        status.value = "error";
+      }
+    } catch (error) {
+      console.log(error); // Log for debugging, can be removed
+      status.value = "error";
+      result.value = "Something went wrong!";
+    } finally {
+      // Reset form after submission
+      form.value.name = "";
+      form.value.email = "";
+      form.value.message = "";
+  
+      // Clear result and status after 5 seconds
+      setTimeout(() => {
+        result.value = "";
+        status.value = "";
+      }, 5000);
     }
-  }
-}
-</script>
+  };
+  </script>
 
 <style scoped>
 .map-container {

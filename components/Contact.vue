@@ -47,17 +47,17 @@
               </div>
               <form @submit.prevent="submitForm">
                 <div class="form-group mb-4">
-                  <input id="text" type="text" name="name" v-model="form.name" 
+                  <input id="text" type="text" name="name" v-model="form.name" required
                     class="form-control block w-full px-3 py-1.5 text-base font-normal text-stone-700 bg-white bg-clip-padding border border-solid border-stone-300 rounded transition ease-in-out m-0 focus:text-stone-700 focus:bg-white focus:border-blue-400 focus:outline-none"
                    placeholder="Name" />
                 </div>
                 <div class="form-group mb-4">
-                  <input id="email" type="email" name="email" v-model="form.email"
+                  <input id="email" type="email" name="email" v-model="form.email" required
                     class="form-control block w-full px-3 py-1.5 text-base font-normal text-stone-700 bg-white bg-clip-padding border border-solid border-stone-300 rounded transition ease-in-out m-0 focus:text-stone-700 focus:bg-white focus:border-blue-400 focus:outline-none"
                      placeholder="Email address" />
                 </div>
                 <div class="form-group mb-4">
-                  <textarea  id="message" name="message" v-model="form.message"
+                  <textarea  id="message" name="message" v-model="form.message" required
                     class="form-control block w-full px-3 py-1.5 text-base font-normal text-stone-700 bg-white bg-clip-padding border border-solid border-stone-300 rounded transition ease-in-out m-0 focus:text-stone-700 focus:bg-white focus:border-blue-400 focus:outline-none"
                    rows="3" placeholder="Message">
                   </textarea>
@@ -73,6 +73,15 @@
                       </button>
           
               </form>
+
+              <!-- Response Display -->
+              <div v-if="response.status !== 0" class="mt-4 text-center">
+                <p :class="response.success ? 'bg-green-400' : 'text-red-400'"
+                    class="font-semibold text-xl text-black rounded py-4">
+                {{ response.success ? 'Success: The e-mail has been successfully sent.' : 'Error: ' }} {{ response.message }}
+                </p>
+              </div> 
+      
             </div>
           </div>
           <div class="md:mb-12 lg:mb-0  relative max-sm:hidden">
@@ -104,16 +113,16 @@
         method: "POST",
         body: form.value,
       });
-      console.log(response);
+      
       result.value = response.message;
       if (response.status === 200) {
         status.value = "success";
       } else {
-        console.log(response); // Log for debugging, can be removed
+         // Log for debugging, can be removed
         status.value = "error";
       }
     } catch (error) {
-      console.log(error); // Log for debugging, can be removed
+       // Log for debugging, can be removed
       status.value = "error";
       result.value = "Something went wrong!";
     } finally {

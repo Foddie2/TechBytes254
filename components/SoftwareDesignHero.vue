@@ -17,7 +17,7 @@
       <div class="mt-5 max-w-2xl text-center mx-auto">
         <h1 class="block font-bold text-gray-800 text-4xl md:text-5xl lg:text-6xl">
           Let's Build
-          <span class="bg-clip-text bg-linear-to-tl from-blue-600 to-violet-600 text-transparent">Together</span>
+          <span class="bg-clip-text bg-linear-to-tl from-blue-600 to-violet-600 text-opacity-75">Together</span>
         </h1>
       </div>
       <!-- End Title -->

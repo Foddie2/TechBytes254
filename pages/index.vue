@@ -8,6 +8,7 @@ import ProjectsCounter from '~/components/ProjectsCounter.vue';
   <div>
       <AppHeader/>
       <TechnicalHero/>
+      <Features/>
       <!-- <Hero/> -->
       <About/>
       <HomeService/>
@@ -16,7 +17,7 @@ import ProjectsCounter from '~/components/ProjectsCounter.vue';
       <Services2/> 
       <!-- <AboutHome/> -->
       <AboutHero/>
-      <Testimonials/>
+  
 
        <Contact/>
       <Footer/>

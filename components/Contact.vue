@@ -86,6 +86,15 @@
   </section>
 </template>
 
+<style scoped>
+.map-container {
+height: 500px;
+z-index: -1;
+}
+
+</style>
+
+
 <script setup>
   const form = ref({
     access_key: "07298aa2-112b-4476-9933-227a0f8f980a",
@@ -132,10 +141,3 @@
   };
   </script>
 
-<style scoped>
-.map-container {
-height: 500px;
-z-index: -1;
-}
-
-</style>

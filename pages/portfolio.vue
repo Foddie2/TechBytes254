@@ -5,8 +5,8 @@
 <template>
   <div>
       <AppHeader/>
-      <Hero/>
-      <Contact3/>
+      <!-- <Hero/> -->
+      <HeroWaves/>
       <Footer/>
   </div>
 </template>

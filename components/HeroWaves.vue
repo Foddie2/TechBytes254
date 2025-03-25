@@ -1,5 +1,5 @@
 <template>
-    <!--Hey! This is the original version
+<!--Hey! This is the original version
 of Simple CSS Waves-->
 
 <div class="header">
@@ -75,7 +75,7 @@ p {
 .header {
   position:relative;
   text-align:center;
-  background: linear-gradient(60deg, rgb(58, 183, 179) 0%, rgb(4, 122, 219) 100%);
+  background: linear-gradient(60deg, rgba(84,58,183,1) 0%, rgba(0,172,193,1) 100%);
   color:white;
 }
 .logo {

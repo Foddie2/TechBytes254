@@ -19,7 +19,7 @@
                   <p class="mt-4 text-lg sm:text-lg md:text-xl lg:text-2xl font-medium dark:text-gray-400 text-gray-700 text-balance" >
                     We do everything with you in mind! We help you grow your business.
                   </p>
-                  <div class="mt-6 sm:mt-8 flex flex-wrap gap-4">
+                  <div class="mt-10 sm:mt-8 flex flex-wrap gap-4">
                     <NuxtLink to="/about">
                       <a class="relative inline-flex items-center px-12 py-3 overflow-hidden text-lg font-medium text-white border-2 border-white rounded-full hover:text-white group hover:bg-gray-50">
                       
@@ -77,7 +77,7 @@
     .text-rainbow-animation {
       font-family:arial black;
       background-image: 
-        linear-gradient(to right, rgb(0, 179, 255),rgb(0, 255, 247),rgb(0, 255, 115),rgb(0, 128, 113),rgb(0, 187, 255),rgb(0, 95, 130),rgb(130, 150, 238), rgb(21, 0, 255)); 
+        linear-gradient(to right, rgb(0, 179, 255),rgb(0, 255, 247),rgb(0, 255, 225),rgb(0, 128, 113),rgb(0, 187, 255),rgb(0, 95, 130),rgb(130, 150, 238), rgb(21, 0, 255)); 
       -webkit-background-clip: text;
         -webkit-text-fill-color: transparent;  
       animation: rainbow-animation 120s linear infinite;

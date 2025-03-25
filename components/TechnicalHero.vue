@@ -9,10 +9,10 @@
                     <img src="https://placehold.co/200x100" class="w-36 z-0  h-full    object-fill fill-y text-y   ">
                 </div>
                 <div class="lg:max-w-xl lg:pr-5 relative z-40">
-                    <p class="flex text-sm uppercase text-g1  ">
+                  <!--   <p class="flex text-sm uppercase text-g1  ">
                          
                         About Us
-                    </p>
+                    </p> -->
                     <h2 class="mb-6 max-w-lg text-5xl font-light leading-snug tracking-tight text-g1 sm:text-7xl sm:leading-snug">
                         We make you look
                         <span class="my-1 inline-block border-b-8 border-g4 bg-white px-4 font-bold text-g4 animate__animated animate__flash">different</span>

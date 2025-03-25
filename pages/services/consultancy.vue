@@ -1,6 +1,7 @@
 <template>
   <div>
     <AppHeader/>
+    <TechnicalHero/>
     <ConsultancyHero/>
     <ConsultationPricing/>
     <div>

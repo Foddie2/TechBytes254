@@ -1,10 +1,10 @@
 <template>
     <div>
         <main class="flex flex-1 w-full flex-col items-center justify-center text-center px-4 sm:mt-28 mt-20">
-            <a href="#" target="_blank" rel="noreferrer"
+           <!--  <a href="#" target="_blank" rel="noreferrer"
                 class="border rounded-2xl py-1 px-4 text-slate-500 text-sm mb-5 hover:scale-105 transition duration-300 ease-in-out">Inspired
                 by the amazing
-                <span class="font-semibold">restorePhotos</span> app</a>
+                <span class="font-semibold">restorePhotos</span> app</a> -->
             <h1 class="mx-auto max-w-4xl font-display text-5xl font-bold tracking-normal text-slate-900 sm:text-7xl">Make your
                 photos
                 <span class="relative whitespace-nowrap text-orange-400">

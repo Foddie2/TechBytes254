@@ -5,7 +5,6 @@
 <template>
   <div>
       <AppHeader/>
-      <Hero/>
       <HeroWaves/>
       <Footer/>
   </div>

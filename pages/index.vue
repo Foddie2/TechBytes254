@@ -7,9 +7,10 @@ import ProjectsCounter from '~/components/ProjectsCounter.vue';
 <template>
   <div>
       <AppHeader/>
-      <TechnicalHero/>
+            <Hero/>
+
+      <!-- <TechnicalHero/> -->
       <Features/>
-      <!-- <Hero/> -->
       <About/>
       <HomeService/>
       <ProjectsCounter/>

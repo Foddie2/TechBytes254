@@ -138,6 +138,29 @@ z-index: -1;
         status.value = "";
       }, 5000);
     }
+    transporter.sendMail(fields, function (error) {
+		/** Let's try to send the email */
+		if (error) {
+			/** Oh fuck, an error... Let's change the response so our front-end knows about this and add the details */
+			response.value = {
+				status:  500,
+				message: error.message,
+				success: false
+			}
+		} else {
+			/** Everything went well 😎. We'll change the response so our front-end gets that information and can use it */
+			response.value = {
+				status:  200,
+				message: 'E-Mail sent successfully',
+				success: true
+			}
+		}
+	})
+
+	return response.value
+
   };
+
+  
   </script>
 

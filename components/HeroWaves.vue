@@ -8,7 +8,7 @@ of Simple CSS Waves-->
     <div class="inner-header flex">
 
       <!-- Hero -->
-  <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 pt-24 pb-10">
+  <div class="max-w-[85rem] mx-auto px-4 sm:px-6 lg:px-8 pt-6 pb-6">
  
 
     <!-- Title -->
@@ -21,7 +21,7 @@ of Simple CSS Waves-->
     <!-- End Title -->
 
     <div class="mt-5 max-w-3xl text-center mx-auto">
-      <p class="text-lg text-gray-600">Preline UI is an open-source set of prebuilt UI components, ready-to-use examples and Figma design system based on the utility-first Tailwind CSS framework.</p>
+      <p class="text-lg text-white">Preline UI is an open-source set of prebuilt UI components, ready-to-use examples and Figma design system based on the utility-first Tailwind CSS framework.</p>
     </div>
   </div>
 <!-- End Hero -->
@@ -72,14 +72,9 @@ h1 {
   font-family: 'Lato', sans-serif;
   font-weight:300;
   letter-spacing: 2px;
-  font-size:48px;
+  font-size:55px;
 }
-p {
-  font-family: 'Lato', sans-serif;
-  letter-spacing: 1px;
-  font-size:14px;
-  color: #333333;
-}
+
 
 .header {
   position:relative;

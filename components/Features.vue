@@ -1,11 +1,11 @@
 <template>
     <div class="p-8">
         <div class="flex felx-col items-center justify-center">
-          <span
+      <!--     <span
             class="rounded-full bg-indigo-500 px-2 py-1 text-white uppercase text-sm"
           >
             Insight
-          </span>
+          </span> -->
         </div>
         <h1 class="text-4xl font-medium text-gray-700 text-center mt-6">
           Full-Funnel Social Analytics

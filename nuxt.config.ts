@@ -15,7 +15,7 @@ export default defineNuxtConfig({
       autoprefixer: {},
     },
   },
-  modules: ["@nuxtjs/tailwindcss", "@vueuse/nuxt",],
+  modules: ["@nuxtjs/tailwindcss", "@vueuse/nuxt",  "@nuxt/content"],
   compatibilityDate: "2024-09-06",
 }
 )

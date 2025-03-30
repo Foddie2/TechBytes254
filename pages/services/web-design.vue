@@ -2,6 +2,7 @@
  <div>
    
     <AppHeader/>
+    <HeroDev/>
     <WebDevHero/>
     <GraphicHero/>
 

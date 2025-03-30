@@ -14,14 +14,14 @@ of Simple CSS Waves-->
     <!-- Title -->
     <div class="mt-5 max-w-2xl text-center mx-auto">
       <h1 class="block font-bold text-white text-4xl md:text-5xl lg:text-6xl">
-        Let's Build
-        <span class="bg-clip-text bg-linear-to-tl from-blue-600 to-violet-600 text-opacity-75">Together</span>
+        Tailored Solutions for Your
+        <span class="bg-clip-text bg-linear-to-tl from-blue-600 to-violet-600 text-opacity-75"> Business!</span>
       </h1>
     </div>
     <!-- End Title -->
 
     <div class="mt-5 max-w-3xl text-center mx-auto">
-      <p class="text-lg text-white">Preline UI is an open-source set of prebuilt UI components, ready-to-use examples and Figma design system based on the utility-first Tailwind CSS framework.</p>
+      <p class="text-lg text-white">At TechBytes, we focus on building long-term partnerships with clients, prioritizing strong relationships, reliability, quality, and cutting-edge, target-oriented technology. These pillars ensure our solutions are tailored to your needs and drive sustained growth.</p>
     </div>
   </div>
 <!-- End Hero -->

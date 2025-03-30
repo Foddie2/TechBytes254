@@ -1,5 +1,5 @@
 <template>
-    <section class="relative h-screen flex flex-col items-center justify-center text-center text-white ">
+    <div class="relative h-screen flex flex-col items-center justify-center text-center text-white ">
         <div class="video-docker absolute top-0 left-0 w-full h-96 overflow-hidden">
             <video class="min-w-full min-h-full absolute object-cover"
                 src="~/assets/img/Typing.mp4" 
@@ -9,7 +9,7 @@
             <h1 class="font-light text-6xl">full Hero Video</h1>
             <h3 class="font-light text-3xl">with TailwindCSS</h3>
         </div>
-    </section>
+    </div>
 </template>
 
 <script>

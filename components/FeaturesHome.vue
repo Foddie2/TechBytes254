@@ -2,7 +2,7 @@
     <div class="h-screen dark:bg-gray-50">
 
         <div
-            class="items-center max-w-screen-xl px-4 py-8 mx-auto lg:grid lg:grid-cols-4 lg:gap-16 xl:gap-24 lg:py-24 lg:px-6">
+            class="items-center max-w-screen-xl px-4 py-8 mx-auto lg:grid lg:grid-cols-4 lg:gap-16 xl:gap-24 lg:py-18 lg:px-8">
             <div class="col-span-2 mb-8">
                 <p class="text-lg font-medium text-blue-500">Trusted Worldwide</p>
                 <h2 class="mt-3 mb-4 text-3xl font-extrabold tracking-tight text-stone-900 md:text-3xl">

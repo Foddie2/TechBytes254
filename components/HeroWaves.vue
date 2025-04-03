@@ -14,8 +14,8 @@ of Simple CSS Waves-->
     <!-- Title -->
     <div class="mt-5 max-w-2xl text-center mx-auto">
       <h1 class="block font-bold text-white text-4xl md:text-5xl lg:text-6xl">
-        Tailored Solutions for Your
-        <span class="bg-clip-text bg-linear-to-tl from-blue-600 to-violet-600 text-opacity-75"> Business!</span>
+        Crafting Digital 
+        <span class="bg-clip-text bg-linear-to-tl from-blue-600 to-violet-600 text-opacity-75"> Excellence</span>
       </h1>
     </div>
     <!-- End Title -->

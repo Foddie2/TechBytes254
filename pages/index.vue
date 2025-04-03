@@ -1,5 +1,4 @@
 <script setup lang="ts">
-import ProjectsCounter from '~/components/ProjectsCounter.vue';
 
 
 </script>
@@ -8,12 +7,15 @@ import ProjectsCounter from '~/components/ProjectsCounter.vue';
   <div>
       <AppHeader/>
             <Hero/>
+            <HeroAbout/>
+
+            <FeaturesHome/>
+            <!-- <HeroHome/> -->
 
       <!-- <TechnicalHero/> -->
-      <Features/>
+      <!-- <Features/> -->
       <About/>
       <HomeService/>
-      <ProjectsCounter/>
       <!-- <AboutHome/> -->
       <Services2/> 
       <!-- <AboutHome/> -->

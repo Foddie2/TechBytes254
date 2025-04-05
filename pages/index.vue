@@ -20,8 +20,8 @@
       <Services2/> 
       <!-- <AboutHome/> -->
        <AboutDescription/>
-      <FeaturesHome/>
-
+      <!-- <FeaturesHome/> -->
+      <WhyUs/>
       <AboutHero/>
   
 

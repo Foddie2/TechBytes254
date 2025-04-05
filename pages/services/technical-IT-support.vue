@@ -3,12 +3,9 @@
     <AppHeader/>
     <TechnicalHero/>
     <!-- <TechnicalSupportAbout/> -->
+     <WebDevStack/>
     <TechnicalIT/>
    
-    <div>
-        Technical 
-
-    </div>
     <Footer/>
  </div>
 </template>

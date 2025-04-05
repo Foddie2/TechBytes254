@@ -1,5 +1,5 @@
 <template>
-    <section class="bg-zinc-50 overflow-hidden">
+    <div class="bg-zinc-50 overflow-hidden">
         <div class="max-w-screen-xl 2xl:max-w-screen-3xl px-8 md:px-12 mx-auto py-12 lg:py-24 space-y-24 h-svh flex flex-col justify-center">
          <div class="flex flex-col sm:flex-row mx-auto">
           <!--- Starts component --> 
@@ -32,7 +32,7 @@
          </div> 
          <!-- Ends links to tutorial -->
         </div>
-       </section>
+    </div>
 </template>
 
 <script>

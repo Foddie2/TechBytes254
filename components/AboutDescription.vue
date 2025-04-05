@@ -1,5 +1,4 @@
 <template>
-  <section class="py-24 relative">
     <div class="w-full  md:px-5 mx-auto py-10  max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24 lg:pb-24">
         <div class="w-full justify-start items-center gap-12 grid lg:grid-cols-2 grid-cols-1">
             <div
@@ -43,7 +42,6 @@
             </div>
         </div>
     </div>
-</section>
                                         
 </template>
 

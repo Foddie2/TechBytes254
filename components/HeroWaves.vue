@@ -48,11 +48,7 @@ of Simple CSS Waves-->
     </div>
     <!--Header ends-->
     
-    <!--Content starts-->
-    <div class="content flex">
-      <p>By.Goodkatz | Free to use </p>
-    </div>
-    <!--Content ends-->
+ 
 </template>
 
 <script>

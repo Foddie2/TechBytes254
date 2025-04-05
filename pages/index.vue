@@ -7,18 +7,21 @@
   <div>
       <AppHeader/>
             <Hero/>
-            <HeroAbout/>
+            <!-- <HeroAbout/> -->
 
-            <FeaturesHome/>
             <!-- <HeroHome/> -->
 
       <!-- <TechnicalHero/> -->
       <!-- <Features/> -->
       <About/>
+
       <HomeService/>
       <!-- <AboutHome/> -->
       <Services2/> 
       <!-- <AboutHome/> -->
+       <AboutDescription/>
+      <FeaturesHome/>
+
       <AboutHero/>
   
 

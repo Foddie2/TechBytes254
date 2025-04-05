@@ -1,5 +1,5 @@
 <template>
-    <div class="relative h-screen flex flex-col items-center justify-center text-center text-white ">
+    <div class="relative h-96 flex flex-col items-center justify-center text-center text-white ">
         <div class="video-docker absolute top-0 left-0 w-full h-96 overflow-hidden">
             <video class="min-w-full min-h-full absolute object-cover"
                 src="~/assets/img/Typing.mp4" 

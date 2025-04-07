@@ -6,7 +6,7 @@
                 type="video/mp4" autoplay muted loop></video>
             </div>
         <div class="video-content space-y-2 z-10">
-            <h1 class="font-light text-6xl">full Hero Video</h1>
+            <h1 class="font-semibold text-6xl">full Hero Video</h1>
             <h3 class="font-light text-3xl">with TailwindCSS</h3>
         </div>
     </div>

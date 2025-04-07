@@ -3,17 +3,13 @@
       <div class="container py-10 mx-auto max-w-screen-xl px-4 pb-6 pt-16 sm:px-6 lg:px-8 lg:pt-24 lg:pb-24">
           <div class="max-w-xl mb-10 md:mx-auto sm:text-center lg:max-w-2xl md:mb-12" data-aos="fade-up" data-aos-delay="300">
             <h2
-              class="max-w-lg mb-6 font-sans leading-none tracking-tight text-stone-950  md:mx-auto text-3xl font-bold sm:text-4xl">
-              <span class="relative inline-block ">
-                We provide Software development & IT services 
-  
-              </span>
-  
+              class="font-regular max-w-lg mb-6 font-sans leading-none tracking-tight text-stone-950  md:mx-auto text-3xl font-bold sm:text-4xl  ">
+                We provide IT services, Design & Software development
             </h2>
           </div>
   
           <div class="grid grid-cols-1 gap-8 mt-8 xl:mt-12 xl:gap-16 md:grid-cols-2 xl:grid-cols-3">
-              <div class="flex flex-col items-center p-6 space-y-3 text-center bg-blue-500 rounded-xl dark:bg-blue-50 transition duration-300 transform  shadow-sm hover:scale-105 group hover:shadow-xl lg:hover:bg-white sm:hover:bg-white" data-aos="fade-up" data-aos-delay="300">
+              <div class="flex flex-col items-center p-6 space-y-3 text-center bg-blue-500 rounded-xl dark:bg-blue-50  transition duration-300 transform  shadow-sm hover:scale-105 group hover:shadow-xl lg:hover:bg-white sm:hover:bg-white" data-aos="fade-up" data-aos-delay="300">
                   <span class="inline-block p-3 text-blue-600 bg-blue-100 rounded-full dark:text-white dark:bg-blue-600">
                       <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M9 5H7a2 2 0 00-2 2v12a2 2 0 002 2h10a2 2 0 002-2V7a2 2 0 00-2-2h-2M9 5a2 2 0 002 2h2a2 2 0 002-2M9 5a2 2 0 012-2h2a2 2 0 012 2m-3 7h3m-3 4h3m-6-4h.01M9 16h.01" />
@@ -31,7 +27,7 @@
                   </a> -->
               </div>
   
-              <div class="flex flex-col items-center p-6 space-y-3 text-center bg-blue-50 rounded-xl dark:bg-blue-50 transition duration-300 transform  shadow-sm hover:scale-105 group hover:shadow-xl lg:hover:bg-white sm:hover:bg-white" data-aos="fade-up" data-aos-delay="300">
+              <div class="flex flex-col items-center p-6 space-y-3 text-center bg-blue-50 rounded-xl dark:bg-blue-50 transition duration-700  transform  shadow-sm hover:scale-105 group hover:shadow-xl lg:hover:bg-white sm:hover:bg-white" data-aos="fade-up" data-aos-delay="300">
                   <span class="inline-block p-3 text-blue-600 bg-blue-100 rounded-full dark:text-white dark:bg-blue-600">
                       <svg xmlns="http://www.w3.org/2000/svg" class="w-6 h-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                           <path stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12 6V4m0 2a2 2 0 100 4m0-4a2 2 0 110 4m-6 8a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4m6 6v10m6-2a2 2 0 100-4m0 4a2 2 0 110-4m0 4v2m0-6V4" />

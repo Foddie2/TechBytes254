@@ -1,7 +1,8 @@
 <template>
  <div>
     <AppHeader/>
-    <TechnicalHero/>
+    <HeroDev/>
+    <!-- <TechnicalHero/> -->
     <!-- <TechnicalSupportAbout/> -->
      <WebDevStack/>
     <TechnicalIT/>

@@ -11,27 +11,27 @@
             </div>
             <div class="w-full flex-col justify-center lg:items-start items-center gap-10 inline-flex">
                 <div class="w-full flex-col justify-center items-start gap-8 flex">
-                    <div class="w-full flex-col justify-start lg:items-start items-center gap-3 flex">
+                    <div class="w-full flex-col justify-start lg:items-start items-center gap-2 flex">
                         <h2
-                            class="text-gray-900 text-4xl font-bold font-manrope leading-normal lg:text-start text-center">
+                            class="text-stone-900 text-4xl font-bold font-manrope leading-normal lg:text-start text-center">
                             Empowering Each Other to Succeed</h2>
-                        <p class="text-gray-500 text-base font-normal leading-relaxed lg:text-start text-center">
+                        <p class="text-stone-500 lg:text-start text-center">
                             Every project we've undertaken has been a collaborative effort, where every person
                             involved has left their mark. Together, we've not only constructed buildings but also
                             built enduring connections that define our success story.</p>
                     </div>
                     <div class="w-full lg:justify-start justify-center items-center sm:gap-10 gap-5 inline-flex">
                         <div class="flex-col justify-start items-start inline-flex">
-                            <h3 class="text-gray-900 text-4xl font-bold font-manrope leading-normal">10+</h3>
-                            <h6 class="text-gray-500 text-base font-normal leading-relaxed">Years of Experience</h6>
+                            <h3 class="text-stone-900 text-4xl font-bold font-manrope leading-normal">10+</h3>
+                            <h6 class="text-stone-500 text-base font-normal leading-relaxed">Years of Experience</h6>
                         </div>
                         <div class="flex-col justify-start items-start inline-flex">
-                            <h4 class="text-gray-900 text-4xl font-bold font-manrope leading-normal">125+</h4>
-                            <h6 class="text-gray-500 text-base font-normal leading-relaxed">Successful Projects</h6>
+                            <h4 class="text-stone-900 text-4xl font-bold font-manrope leading-normal">125+</h4>
+                            <h6 class="text-stone-500 text-base font-normal leading-relaxed">Successful Projects</h6>
                         </div>
                         <div class="flex-col justify-start items-start inline-flex">
-                            <h4 class="text-gray-900 text-4xl font-bold font-manrope leading-normal">52+</h4>
-                            <h6 class="text-gray-500 text-base font-normal leading-relaxed">Happy Clients</h6>
+                            <h4 class="text-stone-900 text-4xl font-bold font-manrope leading-normal">52+</h4>
+                            <h6 class="text-stone-500 text-base font-normal leading-relaxed">Happy Clients</h6>
                         </div>
                     </div>
                 </div>
@@ -45,7 +45,7 @@
                                         
 </template>
 
-<!-- <script>
+<script>
   export default {
     
   }
@@ -53,4 +53,4 @@
 
 <style lang="scss" scoped>
 
-</style> -->
+</style> 

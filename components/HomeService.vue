@@ -4,10 +4,10 @@
         <div class="flex flex-col justify-center md:pr-8 xl:pr-0 lg:max-w-lg">
         
           <div class="max-w-xl mb-6" data-aos="fade-up" data-aos-delay="300">
-            <h2 class="max-w-lg mb-6 font-sans tracking-tight sm:text-4xl sm:leading-none text-xl font-bold text-stone-700">
+            <h2 class="max-w-lg mb-6 font-sans tracking-tight sm:text-4xl sm:leading-none text-xl font-bold text-stone-900">
               Unleashing the Power of   <span class="my-1 inline-block border-b-8 border-g4 text-blue-600 bg-white px-4 font-bold text-g4 animate__animated animate__flash">Technology</span> for Your Business
             </h2>
-            <p class="text-sm text-stone-500 " data-aos="fade-up" data-aos-delay="300">
+            <p class="text-stone-500 " data-aos="fade-up" data-aos-delay="300">
               Whether it is a birthday, a wedding, or any other special event, “A party without a cake is just a meeting!”
               Being such an important part of a special event, the cake must be nothing but the best.
             </p>

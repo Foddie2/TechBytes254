@@ -18,7 +18,7 @@
   
                   <h1 class="text-xl font-semibold text-stone-700 capitalize">Competitive Advantage</h1>
   
-                  <p class="text-stone-400 ">
+                  <p class="text-stone-500 ">
                       In a competitive market, having top-notch IT infrastructure gives you an edge. Your business can respond faster to market changes and customer demands.                </p>
   
              <!--      <a href="https://wa.me/254711974716" class="flex items-center -mx-1 text-sm text-blue-600 capitalize transition-colors duration-300 transform dark:text-blue-400 hover:underline hover:text-blue-600 dark:hover:text-blue-600">
@@ -36,7 +36,7 @@
   
                   <h1 class="text-xl font-semibold text-stone-700 capitalize">Enhanced Efficiency</h1>
   
-                  <p class="text-stone-400">
+                  <p class="text-stone-500">
                       IT services streamline processes and automate repetitive tasks, freeing up your employees to focus on more strategic, revenue-generating activities.
                   </p>
   
@@ -55,7 +55,7 @@
   
                   <h1 class="text-xl font-semibold text-stone-700 capitalize"> Cost Savings  </h1>
   
-                  <p class="text-stone-400">
+                  <p class="text-stone-500">
                       Outsourcing IT services can be more cost-effective than maintaining an in-house IT department. You'll have access to experts without the full-time salary costs.                </p>
   
                  <!--  <a class="flex items-center -mx-1 text-sm text-blue-600 capitalize transition-colors duration-300 transform dark:text-blue-400 hover:underline hover:text-blue-600 dark:hover:text-blue-600">

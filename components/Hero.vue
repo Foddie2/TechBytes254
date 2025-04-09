@@ -95,7 +95,7 @@
     }
 
     .inner-header {
-      height:100vh;
+      height:80vh;
       width:100%;
       margin: 0;
       padding: 0;

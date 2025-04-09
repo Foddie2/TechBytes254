@@ -8,7 +8,7 @@
       <div class="mt-5 max-w-2xl text-center mx-auto">
         <h1 class=" font-bold text-gray-900 text-4xl md:text-5xl lg:text-6xl">
           Let's Build
-          <span class=" bg-linear-to-tl from-blue-600 to-violet-600">Together</span>
+          <span class="bg-clip-text bg-linear-to-tl from-blue-600 to-violet-600 text-opacity-75">Together</span>
         </h1>
       </div>
       <!-- End Title -->

@@ -4,7 +4,7 @@
     <section
       class="relative bg-no-repeat">
       <div
-        class="absolute inset-0 bg-blue/75 sm:bg-transparent sm:from-blue/95 sm:to-white/25 ltr:sm:bg-gradient-to-r bg-gradient-to-r from-blue-400 to-teal-400"
+        class="inner-header absolute inset-0 bg-blue/75 sm:bg-transparent sm:from-blue/95 sm:to-white/25 ltr:sm:bg-gradient-to-r bg-gradient-to-r from-blue-400 to-teal-400"
       ></div>
 
      
@@ -74,6 +74,8 @@
     
     <style lang="scss" scoped>
 
+    
+
     .text-rainbow-animation {
       font-family:arial black;
       background-image: 
@@ -87,6 +89,16 @@
         to {
             background-position: 4500vh;
         }
+
+
+     
+    }
+
+    .inner-header {
+      height:100vh;
+      width:100%;
+      margin: 0;
+      padding: 0;
     }
     
     </style>

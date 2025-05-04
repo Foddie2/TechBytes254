@@ -6,8 +6,8 @@
 <template>
   <div>
       <AppHeader/>
-      <Hero2/>
-            <!-- <Hero/> -->
+      <!-- <Hero2/> -->
+            <Hero/>
             <!-- <HeroAbout/> -->
 
             <!-- <HeroHome/> -->

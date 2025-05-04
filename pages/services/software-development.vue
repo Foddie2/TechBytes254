@@ -3,6 +3,8 @@
     <AppHeader/>
     <SoftwareDesignHero/>
     <SoftwareDevPricing/>
+
+    <GraphicDesignPricing/>
     <div>
         Software dev
 

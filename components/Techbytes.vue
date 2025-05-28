@@ -1,12 +1,12 @@
 <template>
-<div class="mt-28 mb-28 py-12 dark:bg-slate-900">
+<div class="mt-28 mb-28 py-12">
 
     <div class="max-w-screen-md mx-auto text-center">
-        <h1 class="mb-4 text-3xl font-bold dark:text-white">What is <span class="text-indigo-600">Webby</span></h1>
-        <p class="text-gray-500 dark:text-white">Webby is a PHP Framework built on top of Codeigniter 3 for easy PHP web application development using both HMVC and MVC patterns</p>
+        <h1 class="mb-4 text-3xl font-bold">What is <span class="text-indigo-600">Webby</span></h1>
+        <p class="text-gray-500">Webby is a PHP Framework built on top of Codeigniter 3 for easy PHP web application development using both HMVC and MVC patterns</p>
     </div>
 
-    <div class="flex flex-col justify-center space-y-5 md:flex-row md:space-y-0 md:space-x-6 lg:space-x-10 mt-7 mb-8">
+    <div class="flex flex-col justify-center space-y-5 md:flex-row md:space-y-0 md:space-x-6 lg:space-x-36 mt-7 mb-8">
         <div class="relative md:w-5/12">
             <img class="rounded-2xl" src="https://images.unsplash.com/photo-1467232004584-a241de8bcf5d?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w0NzEyNjZ8MHwxfHNlYXJjaHwxM3x8d2Vic2l0ZXxlbnwwfDB8fHwxNzIwMjI4OTA3fDA&ixlib=rb-4.0.3&q=80&w=1080">
             <div class="absolute transform -translate-x-1/2 -translate-y-1/2 top-1/2 left-1/2">

@@ -8,7 +8,7 @@
       <AboutUs/>
       <OurStory/>
       <AboutHero/>
-      <Patners/>
+      <!-- <Patners/> -->
       <Techbytes/>
       <WhyUs/>
       <AboutDescription/>

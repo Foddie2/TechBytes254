@@ -9,6 +9,7 @@
       <OurStory/>
       <AboutHero/>
       <Patners/>
+      <Techbytes/>
       <WhyUs/>
       <AboutDescription/>
      

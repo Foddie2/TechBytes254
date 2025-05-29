@@ -13,9 +13,9 @@
                          
                         About Us
                     </p> -->
-                    <h2 class="mb-6 max-w-lg text-5xl font-light leading-snug tracking-tight text-g1 sm:text-7xl sm:leading-snug">
+                    <h2 class="mb-6 max-w-lg text-5xl font-small leading-snug tracking-tight text-g1 sm:text-7xl sm:leading-snug">
                         We make you look
-                        <span class="my-1 inline-block border-b-8 border-g4 bg-white px-4 font-bold text-g4 animate__animated animate__flash">different</span>
+                        <span class="my-1 inline-block border-b-8 border-g4 bg-white px-4 font-bold text-g4  animate__animated animate__flash">different</span>
                     </h2>
                     <p class="text-base text-gray-700">Sed ut perspiciatis unde omnis iste natus error sit voluptatem
                         accusantium doloremque it.</p>

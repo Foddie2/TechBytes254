@@ -5,7 +5,8 @@
 <template>
   <div>
       <AppHeader/>
+        <HeroWaves/>
+        <ProductFeature/>
       <Footer/>
-      <Hero/>
   </div>
 </template>
